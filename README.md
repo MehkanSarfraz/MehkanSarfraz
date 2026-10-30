@@ -112,9 +112,18 @@ class MehkanSamejo:
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="50">
 
-## Thanks for Visiting!
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+Stopping+By!;Follow+me+for+more+projects!;Let's+Connect+and+Build+Something+Cool!)]()
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
-[![Follow](https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehkansarfraz)
-[![LinkedIn](https://img.shields.io/badge/Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&lo
+## 💫 Thanks for Visiting! 💫
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+stopping+by!;Follow+me+for+more+projects!;Let's+build+something+cool+together!)]()
+
+💡 *Turning ideas into code, one line at a time.*
+
+⭐ *If you like my work, leave a star!* ⭐
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
