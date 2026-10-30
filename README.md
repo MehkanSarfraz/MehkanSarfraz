@@ -116,13 +116,15 @@ class MehkanSamejo:
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
+<div align="center">
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="110">
+
 ## 💫 Thanks for Visiting! 💫
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+stopping+by!;Follow+me+for+more+projects!;Let's+build+something+cool+together!)]()
 
 💡 *Turning ideas into code, one line at a time.*
-
-⭐ *If you like my work, leave a star!* ⭐
 
 </div>
 
