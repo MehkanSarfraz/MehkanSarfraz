@@ -13,7 +13,7 @@
 ```python
 class MehkanSamejo:
     def __init__(self):
-        self.name       = "Mehkan Samejo"
+        self.name       = "Mehkan Sarfraz"
         self.role       = "Full-Stack Developer"
         self.location   = "Sukkur, Pakistan"
         self.education  = "BS Computer Science @ IBA Sukkur"
