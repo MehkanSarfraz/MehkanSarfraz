@@ -102,14 +102,32 @@ class MehkanSamejo:
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
 ## 💫 Thank You for Visiting! 💫
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75590&center=true&vCenter=true&width=600&lines=Thanks+for+Stopping+By!+%F0%9F%98%8A;Don't+Forget+to+%E2%AD%90+Star+My+Repos!;Let's+Connect+and+Build+Something+Cool!+%F0%9F%9A%80;See+You+Around!+%F0%9F%91%8B)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=650&height=50&lines=Thanks+for+Stopping+By!+%F0%9F%98%8A;Don't+Forget+to+%E2%AD%90+Star+My+Repos!;Let's+Connect+and+Build+Something+Cool!+%F0%9F%9A%80;See+You+Around!+%F0%9F%91%8B)]()
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250">
 
-![Visitor Count](https://profile-counter.glitch.me/mehkansamejo/count.svg)
+<br><br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=mehkansarfraz&color=F75590&style=for-the-badge&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/mehkansarfraz?style=for-the-badge&color=2AC1F5&logo=github)
+![Stars](https://img.shields.io/github/stars/mehkansarfraz?style=for-the-badge&color=F7C948&logo=github)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehkansarfraz)
+[![LinkedIn](https://img.shields.io/badge/Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+
+*⭐ Made with ❤️ by Mehkan Sarfraz ⭐*
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 </div>
 💡 Turning ideas into code, one line at a time.
       ✨ Consistency beats perfection.
