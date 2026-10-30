@@ -1,10 +1,40 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,18,24&height=220&section=header&text=MEHKAN%20SARFRAZ&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=62)
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,18,24&height=240&section=header&text=MEHKAN%20SARFRAZ&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=20&descAlignY=60)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=750&height=60&lines=Hi+there%2C+I'm+Mehkan+Sarfraz+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Web+Projects+%F0%9F%9A%80;Open+to+Internship+Opportunities+%E2%9C%A8)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00c9ff&logo=github)
+
+</div>
+
+---
+
+### 🛠️ Skills
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Ideas+into+Web+Projects+%F0%9F%9A%80;Looking+for+Internship+Opportunities+%E2%9C%A8)]()
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&th
 
 ---
 
