@@ -9,7 +9,7 @@
 ## 〔 01 〕 — WHO AM I?
 
 ```python
-class MehkanSamejo:
+class MehkanSarfraz:
     def __init__(self):
         self.name       = "Mehkan Sarfraz"
         self.role       = "Full-Stack Developer"
@@ -68,16 +68,16 @@ class MehkanSamejo:
 ## 〔 03 〕 — GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehkansamejo&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehkansamejo&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehkansarfraz&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehkansarfraz&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehkansamejo&theme=radical&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=mehkansarfraz&theme=radical&hide_border=true" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehkansamejo&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mehkansarfraz&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -100,31 +100,15 @@ class MehkanSamejo:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
+## 💫 Thank You for Visiting! 💫
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75590&center=true&vCenter=true&width=600&lines=Thanks+for+Stopping+By!+%F0%9F%98%8A;Don't+Forget+to+%E2%AD%90+Star+My+Repos!;Let's+Connect+and+Build+Something+Cool!+%F0%9F%9A%80;See+You+Around!+%F0%9F%91%8B)]()
 
-<div align="center">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250">
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="50">
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-
-<div align="center">
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="110">
-
-## 💫 Thanks for Visiting! 💫
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+stopping+by!;Follow+me+for+more+projects!;Let's+build+something+cool+together!)]()
-
-💡 *Turning ideas into code, one line at a time.*
+![Visitor Count](https://profile-counter.glitch.me/mehkansarfraz/count.svg)
 
 </div>
 
