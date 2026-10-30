@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MEHKAN%20SAMEJO&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,18,24&height=220&section=header&text=MEHKAN%20SARFRAZ&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=62)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2AC1F5&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Web+Projects+%F0%9F%9A%80;Open+to+Internship+Opportunities+%E2%9C%A8)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Ideas+into+Web+Projects+%F0%9F%9A%80;Looking+for+Internship+Opportunities+%E2%9C%A8)]()
 
 </div>
 
