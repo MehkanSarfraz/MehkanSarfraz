@@ -108,26 +108,13 @@ class MehkanSamejo:
 
 <div align="center">
 
-## 💫 Thank You for Visiting! 💫
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=650&height=50&lines=Thanks+for+Stopping+By!+%F0%9F%98%8A;Don't+Forget+to+%E2%AD%90+Star+My+Repos!;Let's+Connect+and+Build+Something+Cool!+%F0%9F%9A%80;See+You+Around!+%F0%9F%91%8B)]()
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="50">
 
-<br>
+## Thanks for Visiting!
 
-![Profile Views](https://komarev.com/ghpvc/?username=mehkansarfraz&color=F75590&style=for-the-badge&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/mehkansarfraz?style=for-the-badge&color=2AC1F5&logo=github)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+Stopping+By!;Follow+me+for+more+projects!;Let's+Connect+and+Build+Something+Cool!)]()
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehkansarfraz)
-[![LinkedIn](https://img.shields.io/badge/Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-
-<br>
-
-💡 *Turning ideas into code, one line at a time.*
-
-✨ *Consistency beats perfection.*
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+[![Follow](https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehkansarfraz)
+[![LinkedIn](https://img.shields.io/badge/Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&lo
