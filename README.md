@@ -66,21 +66,7 @@ class MehkanSarfraz:
 ---
 
 ## 〔 03 〕 — GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehkansarfrazy&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehkansarfrazy&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mehkansarfrazy&theme=radical&hide_border=true" width="70%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehkansarfrazy&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MehkanSarfraz&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehkanSarfraz&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=MehkanSarfraz&theme=radical&hide_border=true" width="70%" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MehkanSarfraz&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/> </p>
 
 ## 〔 04 〕 — CONNECT WITH ME
 
