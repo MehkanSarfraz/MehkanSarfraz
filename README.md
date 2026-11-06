@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2AC1F5&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Web+Projects+%F0%9F%9A%80;Open+to+Internship+Opportunities+%E2%9C%A8)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2AC1F5&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Web+Projects+%F0%9F%9A%80;Open+to+Internship+Opportunities+%E2%9C%A8)](https://github.com/mehkansamejo)
 
 </div>
 
@@ -68,16 +68,16 @@ class MehkanSarfraz:
 ## 〔 03 〕 — GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehkansamejo&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehkansamejo&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehkansamejo&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehkansamejo&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehkansamejo&theme=radical&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=mehkansamejo&theme=radical&hide_border=true" width="70%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehkansamejo&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mehkansamejo&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -86,13 +86,13 @@ class MehkanSarfraz:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehkan-abdulfatah-3895013a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/mehkansamejo2025/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:samjomehkan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -100,29 +100,17 @@ class MehkanSarfraz:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="50"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="50">
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-
-<div align="center">
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="110">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 💫 Thanks for Visiting! 💫
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+stopping+by!;Follow+me+for+more+projects!;Let's+build+something+cool+together!)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+stopping+by!;Follow+me+for+more+projects!;Let%27s+build+something+cool+together!)](https://github.com/mehkansamejo)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="thanks"/>
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mehkansamejo&color=f75590&style=flat)
 
 💡 *Turning ideas into code, one line at a time.*
 
