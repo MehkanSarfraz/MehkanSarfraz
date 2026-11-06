@@ -9,7 +9,7 @@
 ## 〔 01 〕 — WHO AM I?
 
 ```python
-class MehkanSamejo:
+class MehkanSarfraz:
     def __init__(self):
         self.name       = "Mehkan Sarfraz"
         self.role       = "Full-Stack Developer"
