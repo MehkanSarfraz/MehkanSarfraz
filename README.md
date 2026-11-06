@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2AC1F5&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Web+Projects+%F0%9F%9A%80;Open+to+Internship+Opportunities+%E2%9C%A8)](https://github.com/mehkansamejo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2AC1F5&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Web+Projects+%F0%9F%9A%80;Open+to+Internship+Opportunities+%E2%9C%A8)](https://github.com/mehkansarfrazy)
 
 </div>
 
@@ -68,16 +68,16 @@ class MehkanSarfraz:
 ## 〔 03 〕 — GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehkansamejo&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehkansamejo&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehkansarfrazy&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehkansarfrazy&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mehkansamejo&theme=radical&hide_border=true" width="70%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mehkansarfrazy&theme=radical&hide_border=true" width="70%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehkansamejo&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mehkansarfrazy&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -104,13 +104,13 @@ class MehkanSarfraz:
 
 ## 💫 Thanks for Visiting! 💫
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+stopping+by!;Follow+me+for+more+projects!;Let%27s+build+something+cool+together!)](https://github.com/mehkansamejo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+stopping+by!;Follow+me+for+more+projects!;Let%27s+build+something+cool+together!)](https://github.com/mehkansarfrazy)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="thanks"/>
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=mehkansamejo&color=f75590&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=mehkansarfrazy&color=f75590&style=flat)
 
 💡 *Turning ideas into code, one line at a time.*
 
