@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2AC1F5&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Web+Projects+%F0%9F%9A%80;Open+to+Internship+Opportunities+%E2%9C%A8)](https://github.com/mehkansarfrazy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2AC1F5&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Web+Projects+%F0%9F%9A%80;Open+to+Internship+Opportunities+%E2%9C%A8)](https://github.com/mehkan)
 
 </div>
 
